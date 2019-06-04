@@ -1,0 +1,3 @@
+com/gojek/parkinglot/models/test/QueriesTest.class
+com/gojek/parkinglot/models/test/ParkingLotTest.class
+com/gojek/parkinglot/services/test/ParkingAllocatorTest.class

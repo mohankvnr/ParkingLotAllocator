@@ -1,0 +1,6 @@
+com/gojek/parkinglot/models/ParkingSlot.class
+com/gojek/parkinglot/Main.class
+com/gojek/parkinglot/services/ParkingAllocator.class
+com/gojek/parkinglot/models/Queries.class
+com/gojek/parkinglot/commons/Constants.class
+com/gojek/parkinglot/models/ParkingLot.class
